@@ -1,0 +1,5 @@
+/home/eda-lab/Documents/parser/parser/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/eda-lab/Documents/parser/parser/bin/Debug/parser.exe.mdb
+/home/eda-lab/Documents/parser/parser/bin/Debug/parser.exe
+/home/eda-lab/Documents/parser/parser/obj/x86/Debug/parser.exe
+/home/eda-lab/Documents/parser/parser/obj/x86/Debug/parser.exe.mdb
