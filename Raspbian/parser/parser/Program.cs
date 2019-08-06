@@ -3,6 +3,7 @@ using System.IO;
 using SimpleJSON;
 using System.Collections.Generic;
 using System.Threading;
+using System.Diagnostics;
 
 namespace parser
 {
@@ -86,6 +87,7 @@ namespace parser
 			if(value <= (target + threshold) && value >= (target - threshold))
 			{
 				Console.WriteLine ("Target angle reached");
+				Process.Start ("/bin/bash", "rosrun demo move.py");
 			}
 			return true;
 		}
