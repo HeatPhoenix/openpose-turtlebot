@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/usr/local/lib 
+Requires: 

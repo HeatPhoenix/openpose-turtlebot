@@ -1,0 +1,8 @@
+prefix=/home/pi/catkin_ws/src/demo/devel
+
+Name: demo
+Description: Description of demo
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/catkin_ws/src/demo/devel/lib 
+Requires: 
